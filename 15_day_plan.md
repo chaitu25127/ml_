@@ -7,10 +7,10 @@
 ---
 
 ## Day 1 — Linear Regression (Sat 7/4)
-- [ ] 🎬 CS229 Lecture 2 — Linear Regression & Gradient Descent (1.5h)
-- [ ] 📖 handson-ml3 Ch 4 intro — theory summary + formulas (30min)
-- [ ] 💻 Ch 4 notebook: linear_regression.ipynb (2.5h)
-- [ ] 💻 Ch 4 notebook: polynomial_regression.ipynb
+- [x] 🎬 CS229 Lecture 2 — Linear Regression & Gradient Descent (1.5h)
+- [x] 📖 handson-ml3 Ch 4 intro — theory summary + formulas (30min)
+- [x] 💻 Ch 4 notebook: linear_regression.ipynb (2.5h)
+- [x] 💻 Ch 4 notebook: polynomial_regression.ipynb
 
 ## Day 2 — Logistic Regression (Sun 7/5)
 - [ ] 🎬 CS229 Lecture 3 — Logistic Regression, Newton's Method (1h)
